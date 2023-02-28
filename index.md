@@ -1,4 +1,4 @@
-## About Me
+### About Me
 I am a Ph.D. student (2020-) at the School of Computer Science and Technology of Beijing Institute of Technology (BIT), working with Prof. Minttao Pei and Prof. Wei Liang at the MCISLab. Prior to Ph.D. study, I received my double Bachelor's degree (2014-2018) at the School of Innovation and Entrepreneurship and the School of Computer Science and Technology, Dalian University of Technology (DUT) where I was advised by Prof. Yuanyuan Sun at the Lab.
 
 I work on Computer Vision (CV) and Machine Learning (ML). I'm interested in developing CV/ML models to model data structure, semantic structure, and causal structure for future events understanding and prediction. My recent works are within the fields of motion prediction, vdieo prediction, and VideoQA. The fundamental techniques cover the topics of few-shot learning and causal effect. I also focus on using AI to solve practical problems.
