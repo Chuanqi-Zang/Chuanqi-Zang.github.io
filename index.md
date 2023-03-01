@@ -26,6 +26,7 @@ I work on Computer Vision (CV) and Machine Learning (ML). I'm interested in deve
 >Few-shot Human Motion Prediction via Learning Novel Motion Dynamics 
 >**Chuanqi Zang**, Yu Kong, Mingtao Pei 
 >International Joint Conference on Artificial Intelligence (**IJCAI**) 2020 [PAPER](https://www.ijcai.org/proceedings/2020/0118.pdf)
+
 ***
 ### Projects
 
@@ -40,6 +41,7 @@ I work on Computer Vision (CV) and Machine Learning (ML). I'm interested in deve
 ***
 ### Volunteer
 Academic Advisor for "Elite Program" 11/2021-10/2022
+
 ***
 ### Selected Honors
 The First-class Academic Scholarship, Beijing Institute of Technology, 2021. (top 10%)
