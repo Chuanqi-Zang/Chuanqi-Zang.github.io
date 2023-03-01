@@ -43,6 +43,7 @@ Academic Advisor for "Elite Program" 11/2021-10/2022
 ***
 ### Selected Honors
 The First-class Academic Scholarship, Beijing Institute of Technology, 2021. (top 10%)
+
 Third-Class Prize, The 9th "Academic Forum" of the School of Computer Science, Beijing Institute of Technology. 2020.
 
 [CV]
