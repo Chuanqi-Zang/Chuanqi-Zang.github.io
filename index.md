@@ -38,7 +38,7 @@ Driver Behavior Analysis and Dangerous Behavior Warning 11/2022 - 3/2023
 
 Automatic Cruise Monitoring System, 05/2021 - 09/2021
 
-Indoor Abnormal Behavior Detection, 11/1019 - 1/2020
+Indoor Abnormal Behavior Detection, 11/2019 - 1/2020
 
 Real Time 2D Pose Estimation in camera， 08/2018 - 10/2018
 
