@@ -16,14 +16,17 @@ I work on Computer Vision (CV) and Machine Learning (ML). I'm interested in deve
 ***
 ### Publications
 >Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering
+>
 >**Chuanqi Zang**, Hanqing Wang, Mingtao Pei, Wei Liang
 >IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023 [PAPER]
 
->Few-Shot Human Motion Prediction Using Deformable Spatio-Temporal CNN with Parameter Generation 
+>Few-Shot Human Motion Prediction Using Deformable Spatio-Temporal CNN with Parameter Generation
+>
 >**Chuanqi Zang***, Menghao Li*, Mingtao Pei 
 >**Neurocomputing**, 2022 [PAPER](https://www.sciencedirect.com/science/article/pii/S0925231222012231?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=222433177&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM300589&utm_source=AC_)
 
 >Few-shot Human Motion Prediction via Learning Novel Motion Dynamics 
+>
 >**Chuanqi Zang**, Yu Kong, Mingtao Pei 
 >International Joint Conference on Artificial Intelligence (**IJCAI**) 2020 [PAPER](https://www.ijcai.org/proceedings/2020/0118.pdf)
 
